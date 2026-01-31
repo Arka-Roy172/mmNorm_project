@@ -1,0 +1,4 @@
+*.o
+*__pycache__*
+*.so
+sample_data/*
